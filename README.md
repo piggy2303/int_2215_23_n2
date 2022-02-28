@@ -29,3 +29,8 @@ if more error but not authentication error => google
     brew install SDL2_image
 
     brew install SDL2_ttf
+
+# running SDL
+
+    g++ index_sdl.cpp -o hello_sdl2 -lSDL2
+    ./hello_sdl2
