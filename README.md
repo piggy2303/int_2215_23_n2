@@ -21,3 +21,11 @@ login => profile => setting =>scorll => developer settings
     git remote set-url origin https://TOKEN@github.com/USERNAME/REPO.git
 
 if more error but not authentication error => google
+
+# install sdl
+
+    brew install SDL2
+
+    brew install SDL2_image
+
+    brew install SDL2_ttf
