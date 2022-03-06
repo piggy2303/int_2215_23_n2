@@ -30,11 +30,6 @@ if more error but not authentication error => google
 
     brew install SDL2_ttf
 
-# running SDL
-
-    g++ index_sdl.cpp -o hello_sdl2 -lSDL2
-    ./hello_sdl2
-
 # if get error not found SDL2
 
 go this `https://www.libsdl.org/download-2.0.php`
