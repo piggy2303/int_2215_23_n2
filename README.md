@@ -34,3 +34,13 @@ if more error but not authentication error => google
 
     g++ index_sdl.cpp -o hello_sdl2 -lSDL2
     ./hello_sdl2
+
+# if get error not found SDL2
+
+go this `https://www.libsdl.org/download-2.0.php`
+
+dowload file `SDL2-2.0.20.dmg`
+
+open it and copy folder SDL2.framework to `/Library/Frameworks/`
+
+run it : `./start.sh` again
